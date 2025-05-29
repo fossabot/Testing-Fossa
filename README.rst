@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTaruN7774%2FTesting-Fossa.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTaruN7774%2FTesting-Fossa?ref=badge_shield)
+
 |Build Status| |CircleCI Status| |Documentation Status| |Fuzzing Status| |License|
 
 Sponsors
@@ -262,3 +264,6 @@ Table Legend
 .. _Contributing: docs/contributing/index.rst
 .. _Code of Conduct: CODE_OF_CONDUCT.rst
 .. _Porting: docs/contributing/porting.rst
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTaruN7774%2FTesting-Fossa.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTaruN7774%2FTesting-Fossa?ref=badge_large)
